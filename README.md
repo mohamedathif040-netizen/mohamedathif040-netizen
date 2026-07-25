@@ -8,7 +8,7 @@
               ██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗
               ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 
-                 Artificial Intelligence Developer Environment
+               Artificial Intelligence Developer Environment
 
 ══════════════════════════════════════════════════════════════════════════════
 
