@@ -54,3 +54,33 @@ Scroll ↓ to execute commands...
 │                                                                            │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
+## `NEURAL:// whoami`
+
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│ DEVELOPER PROFILE                                                         │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                          │
+│ Name          Mohamed Athif                                              │
+│ Role          AI Engineer                                                │
+│ Location      Bengaluru, India                                           │
+│                                                                          │
+│ Focus         Generative AI                                              │
+│               Flutter Development                                        │
+│               Open Source                                                │
+│               Intelligent Automation                                     │
+│                                                                          │
+│ Currently     Building AI-powered applications                           │
+│ Learning      Advanced AI Systems & Full-Stack Development               │
+│                                                                          │
+│ Mission       Design software that creates real-world impact.            │
+│                                                                          │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+Session Status
+
+Coding ████████████████ 100%
+
+Learning ████████████████ 100%
+
+Coffee █████████████████ 101% ☕
