@@ -252,7 +252,7 @@ MISSION LOG
 └────────────────────────────────────────────────────────────────────────────┘
 ```
 <p align="center">
-<a href="[[YOUR_LINKEDIN](https://www.linkedin.com/in/mohamed-athif-a674ab416)](https://www.linkedin.com/in/mohamed-athif-a674ab416?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+<a href="https://www.linkedin.com/in/mohamed-athif-a674ab416?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
