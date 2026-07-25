@@ -84,3 +84,46 @@ Coding ████████████████ 100%
 Learning ████████████████ 100%
 
 Coffee █████████████████ 101% ☕
+
+## `NEURAL:// architecture`
+
+```text
+                              AI SYSTEM ARCHITECTURE
+
+                                      USER
+                                        │
+                                        ▼
+                          ┌──────────────────────────┐
+                          │  Flutter Applications    │
+                          └─────────────┬────────────┘
+                                        │
+                                        ▼
+                          ┌──────────────────────────┐
+                          │  AI Processing Layer     │
+                          │  Gemini • Python         │
+                          └───────┬──────────┬───────┘
+                                  │          │
+                    ┌─────────────┘          └─────────────┐
+                    ▼                                      ▼
+          ┌──────────────────┐                  ┌──────────────────┐
+          │ Streamlit Apps   │                  │ Firebase Cloud   │
+          └─────────┬────────┘                  └─────────┬────────┘
+                    │                                     │
+                    └──────────────┬──────────────────────┘
+                                   ▼
+                        ┌──────────────────────────┐
+                        │   GitHub & Open Source   │
+                        └──────────────────────────┘
+```
+```text
+┌────────────────────────────────────────────────────────────┐
+│ SYSTEM COMPONENTS                                          │
+├────────────────────────────────────────────────────────────┤
+│ Programming     Python • Dart • C                          │
+│ AI              Gemini API • Prompt Engineering            │
+│ Frameworks      Flutter • Streamlit                        │
+│ Backend         Firebase                                   │
+│ Version Control Git • GitHub                               │
+│ Tools           VS Code • Android Studio                   │
+└────────────────────────────────────────────────────────────┘
+```
