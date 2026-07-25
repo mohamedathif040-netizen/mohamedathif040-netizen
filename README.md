@@ -10,18 +10,18 @@ Artificial Intelligence Developer Environment
 
 ```text
 ┌────────────────────────────────────────────────────────────┐
-│  NEURAL:// help                                            │
+│  NEURAL:// help                                           │
 ├────────────────────────────────────────────────────────────┤
-│                                                            │
-│  Available Commands                                        │
-│                                                            │
-│   boot            Initialize developer environment         │
-│   whoami          Display developer profile                │
-│   architecture    Show AI system architecture              │
-│   modules         List installed AI projects               │
-│   analytics       Open GitHub analytics dashboard          │
-│   connect         Network & contact information            │
-│                                                            │
+│                                                          │
+│  Available Commands                                      │
+│                                                          │
+│   boot            Initialize developer environment       │
+│   whoami          Display developer profile              │
+│   architecture    Show AI system architecture            │
+│   modules         List installed AI projects             │
+│   analytics       Open GitHub analytics dashboard        │
+│   connect         Network & contact information          │
+│                                                          │
 └────────────────────────────────────────────────────────────┘
 ```
 Scroll ↓ to execute commands...
@@ -30,27 +30,27 @@ Scroll ↓ to execute commands...
 
 ```text
 ┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│  NEURAL CONSOLE v1.0                                                         │
-│  Artificial Intelligence Developer Environment                               │
-│                                                                              │
+│                                                                             │
+│  NEURAL CONSOLE v1.0                                                        │
+│  Artificial Intelligence Developer Environment                              │
+│                                                                             │
 ├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│  Boot Sequence Started...                                                    │
-│                                                                              │
-│  [01] Loading Neural Kernel......................... OK                      │
-│  [02] Initializing Python Runtime................... READY                   │
-│  [03] Mounting Flutter Engine....................... READY                   │
-│  [04] Connecting GitHub Repository.................. CONNECTED               │
-│  [05] Loading AI Project Modules.................... LOADED                  │
-│  [06] Verifying Open Source Packages................ VERIFIED                │
-│  [07] Activating Developer Workspace................ ACTIVE                  │
-│                                                                              │
-│  Developer Environment Ready.                                                │
-│                                                                              │
-│  STATUS                 ● ONLINE                                             │
-│  BUILD                  2026.07                                              │
-│  MODE                   AI ENGINEERING                                       │
-│                                                                              │
+│                                                                            │
+│  Boot Sequence Started...                                                  │
+│                                                                            │
+│  [01] Loading Neural Kernel......................... OK                    │
+│  [02] Initializing Python Runtime................... READY                 │
+│  [03] Mounting Flutter Engine....................... READY                 │
+│  [04] Connecting GitHub Repository.................. CONNECTED             │
+│  [05] Loading AI Project Modules.................... LOADED                │
+│  [06] Verifying Open Source Packages................ VERIFIED              │
+│  [07] Activating Developer Workspace................ ACTIVE                │
+│                                                                            │
+│  Developer Environment Ready.                                              │
+│                                                                            │
+│  STATUS                 ● ONLINE                                           │
+│  BUILD                  2026.07                                            │
+│  MODE                   AI ENGINEERING                                     │
+│                                                                            │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
