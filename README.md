@@ -207,3 +207,32 @@ MISSION LOG
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+## `NEURAL:// analytics`
+
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│ SYSTEM ANALYTICS                                                           │
+├────────────────────────────────────────────────────────────────────────────┤
+│                                                                            │
+│ Repository Health        ███████████████████████████████                   │
+│ Contribution Activity    ███████████████████████████████                   │
+│ AI Development           ███████████████████████████████                   │
+│ Open Source              ███████████████████████████████                   │
+│                                                                            │
+│ STATUS : STABLE                                                            │
+│                                                                            │
+└────────────────────────────────────────────────────────────────────────────┘
+```
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedathif040-netizen&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedathif040-netizen&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=mohamedathif040-netizen&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedathif040-netizen&theme=tokyo-night&hide_border=true"/>
+</p>
