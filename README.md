@@ -254,9 +254,9 @@ MISSION LOG
 │ NETWORK STATUS                                                             │
 ├────────────────────────────────────────────────────────────────────────────┤
 │                                                                            │
-│ GitHub: https://github.com/mohamedathif040-netizen                         │
-│ LinkedIn: https://www.linkedin.com/in/mohamed-athif-a674ab416              │
-│ Email: mohamedathif040@gmail.com                                           │
+│ GitHub        ● CONNECTED                                                  │
+│ LinkedIn      ● CONNECTED                                                  │
+│ Email         ● AVAILABLE                                                  │
 │                                                                            │
 │ Collaboration Status : OPEN                                                │
 │                                                                            │
