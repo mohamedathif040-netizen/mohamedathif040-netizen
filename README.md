@@ -136,6 +136,17 @@ Coffee █████████████████ 101% ☕
 │ Tools           VS Code • Android Studio                   │
 └────────────────────────────────────────────────────────────┘
 ```
+## `NEURAL:// stack`
+
+```text
+Loading Technology Stack...
+```
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,git,github,vscode,sqlite,html,css,js" />
+
+</p>
 ## `NEURAL:// modules`
 
 ```text
