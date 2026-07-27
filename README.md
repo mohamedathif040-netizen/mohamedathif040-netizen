@@ -314,9 +314,6 @@ NEXT OBJECTIVE
 Build software that people remember.
 ```
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohamedathif040-netizen&theme=tokyonight&no-frame=true&margin-w=15"/>
-</p>
-<p align="center">
 
 ![](https://komarev.com/ghpvc/?username=mohamedathif040-netizen&style=for-the-badge&color=0e75b6)
 
