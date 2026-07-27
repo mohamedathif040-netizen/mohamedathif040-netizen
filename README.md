@@ -247,6 +247,10 @@ MISSION LOG
 <img src="https://streak-stats.demolab.com?user=mohamedathif040-netizen&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamedathif040-netizen/mohamedathif040-netizen/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 ## `NEURAL:// connect`
 
 ```text
